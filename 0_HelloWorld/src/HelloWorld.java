@@ -6,5 +6,9 @@ public class HelloWorld {
         System.out.println("第三次修改 --- 来自Gitee的爱");
         System.out.println("第四次修改 --- 来自xiaoming-branch-Github");
         System.out.println("第五次修改 --- 来自xiaohong-branch-Gitee");
+
+        System.out.println("第五次修改 --- 来自xiaohong-branch-Gitee");
+        System.out.println("第五次修改 --- 来自xiaohong-branch-Gitee");
+        System.out.println("第五次修改 --- 来自xiaohong-branch-Gitee");
     }
 }
